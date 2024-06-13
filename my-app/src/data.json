@@ -1,0 +1,238 @@
+[
+    {
+        "may": [
+            {
+                "2024-05-01": [
+                    {
+                        "id": 24,
+                        "createdAt": "2024-05-15T10:23:32.857Z",
+                        "updatedAt": "2024-05-15T10:23:32.857Z",
+                        "sequence": 1,
+                        "announcedAt": "2024-05-01T10:23:00.000Z",
+                        "game": "SHRI HARI"
+                    }
+                ]
+            },
+            {
+                "2024-05-02": [
+                    {
+                        "id": 25,
+                        "createdAt": "2024-05-15T10:41:24.142Z",
+                        "updatedAt": "2024-05-15T10:41:24.142Z",
+                        "sequence": 10,
+                        "announcedAt": "2024-05-02T10:41:00.000Z",
+                        "game": "DISAWER"
+                    }
+                ]
+            },
+            {
+                "2024-05-03": [
+                    {
+                        "id": 28,
+                        "createdAt": "2024-05-16T08:35:09.571Z",
+                        "updatedAt": "2024-05-16T08:35:09.571Z",
+                        "sequence": 80,
+                        "announcedAt": "2024-05-03T08:35:00.000Z",
+                        "game": "GALI"
+                    }
+                ]
+            },
+            {
+                "2024-05-04": [
+                    {
+                        "id": 29,
+                        "createdAt": "2024-05-16T08:37:35.062Z",
+                        "updatedAt": "2024-05-16T08:37:35.062Z",
+                        "sequence": 4,
+                        "announcedAt": "2024-05-04T08:37:00.000Z",
+                        "game": "GALI"
+                    }
+                ]
+            },
+            {
+                "2024-05-09": [
+                    {
+                        "id": 15,
+                        "createdAt": "2024-05-15T05:09:21.256Z",
+                        "updatedAt": "2024-05-15T05:09:21.256Z",
+                        "sequence": 15,
+                        "announcedAt": "2024-05-09T05:09:00.000Z",
+                        "game": "ROYAL-CLUB"
+                    }
+                ]
+            },
+            {
+                "2024-05-11": [
+                    {
+                        "id": 21,
+                        "createdAt": "2024-05-11T11:42:00.196Z",
+                        "updatedAt": "2024-05-16T07:20:00.564Z",
+                        "sequence": 20,
+                        "announcedAt": "2024-05-11T11:42:00.180Z",
+                        "game": "Dubai king"
+                    },
+                    {
+                        "id": 22,
+                        "createdAt": "2024-05-15T10:15:16.839Z",
+                        "updatedAt": "2024-05-15T10:15:16.839Z",
+                        "sequence": 81,
+                        "announcedAt": "2024-05-11T10:15:00.000Z",
+                        "game": "JAI MAHALAXMI"
+                    },
+                    {
+                        "id": 21,
+                        "createdAt": "2024-05-15T10:14:16.893Z",
+                        "updatedAt": "2024-05-15T10:14:16.893Z",
+                        "sequence": 9,
+                        "announcedAt": "2024-05-11T10:14:00.000Z",
+                        "game": "JAI LUXMI"
+                    },
+                    {
+                        "id": 14,
+                        "createdAt": "2024-05-15T05:08:54.143Z",
+                        "updatedAt": "2024-05-15T05:08:54.143Z",
+                        "sequence": 15,
+                        "announcedAt": "2024-05-11T05:08:00.000Z",
+                        "game": "GALI"
+                    }
+                ]
+            },
+            {
+                "2024-05-13": [
+                    {
+                        "id": 25,
+                        "createdAt": "2024-05-13T12:35:02.526Z",
+                        "updatedAt": "2024-05-16T07:20:00.564Z",
+                        "sequence": 50,
+                        "announcedAt": "2024-05-13T12:35:02.509Z",
+                        "game": "Dubai king"
+                    },
+                    {
+                        "id": 17,
+                        "createdAt": "2024-05-15T05:11:18.189Z",
+                        "updatedAt": "2024-05-15T05:11:18.189Z",
+                        "sequence": 10,
+                        "announcedAt": "2024-05-13T05:11:00.000Z",
+                        "game": "LUCKY 7"
+                    },
+                    {
+                        "id": 16,
+                        "createdAt": "2024-05-15T05:09:54.468Z",
+                        "updatedAt": "2024-05-15T05:09:54.468Z",
+                        "sequence": 11,
+                        "announcedAt": "2024-05-13T05:09:00.000Z",
+                        "game": "RAJDHANI"
+                    }
+                ]
+            },
+            {
+                "2024-05-15": [
+                    {
+                        "id": 27,
+                        "createdAt": "2024-05-15T12:34:37.493Z",
+                        "updatedAt": "2024-05-16T07:20:00.564Z",
+                        "sequence": 20,
+                        "announcedAt": "2024-05-15T12:34:37.481Z",
+                        "game": "Dubai king"
+                    },
+                    {
+                        "id": 23,
+                        "createdAt": "2024-05-15T10:19:52.010Z",
+                        "updatedAt": "2024-05-15T10:19:52.010Z",
+                        "sequence": 62,
+                        "announcedAt": "2024-05-15T10:19:00.000Z",
+                        "game": "RAJSHRI"
+                    }
+                ]
+            },
+            {
+                "2024-05-16": [
+                    {
+                        "id": 28,
+                        "createdAt": "2024-05-16T07:20:00.576Z",
+                        "updatedAt": "2024-05-16T07:20:00.576Z",
+                        "sequence": 70,
+                        "announcedAt": "2024-05-16T07:20:00.563Z",
+                        "game": "Dubai king"
+                    },
+                    {
+                        "id": 27,
+                        "createdAt": "2024-05-16T07:19:00.325Z",
+                        "updatedAt": "2024-05-16T07:19:00.325Z",
+                        "sequence": 60,
+                        "announcedAt": "2024-05-16T07:18:00.000Z",
+                        "game": "RAJASTHAN"
+                    }
+                ]
+            },
+            {
+                "2024-05-18": [
+                    {
+                        "id": 30,
+                        "createdAt": "2024-05-18T16:53:03.064Z",
+                        "updatedAt": "2024-05-18T16:53:03.064Z",
+                        "sequence": 20,
+                        "announcedAt": "2024-05-18T16:52:00.000Z",
+                        "game": "GALI"
+                    }
+                ]
+            },
+            {
+                "2024-05-19": [
+                    {
+                        "id": 31,
+                        "createdAt": "2024-05-20T04:48:03.560Z",
+                        "updatedAt": "2024-05-20T04:48:03.560Z",
+                        "sequence": 85,
+                        "announcedAt": "2024-05-19T04:47:00.000Z",
+                        "game": "DISAWER"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "april": [
+            {
+                "2024-04-05": [
+                    {
+                        "id": 3,
+                        "createdAt": "2024-04-05T13:17:30.831Z",
+                        "updatedAt": "2024-05-16T07:20:00.564Z",
+                        "sequence": 12,
+                        "announcedAt": "2024-04-05T13:26:00.834Z",
+                        "game": "Dubai king"
+                    }
+                ]
+            },
+            {
+                "2024-04-06": [
+                    {
+                        "id": 16,
+                        "createdAt": "2024-04-06T15:32:00.265Z",
+                        "updatedAt": "2024-05-16T07:20:00.564Z",
+                        "sequence": 50,
+                        "announcedAt": "2024-04-06T15:32:00.256Z",
+                        "game": "Dubai king"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "march": [
+            {
+                "2024-03-09": [
+                    {
+                        "id": 18,
+                        "createdAt": "2024-05-15T09:47:05.068Z",
+                        "updatedAt": "2024-05-15T09:47:05.068Z",
+                        "sequence": 12,
+                        "announcedAt": "2024-03-09T09:46:00.000Z",
+                        "game": "DISAWER"
+                    }
+                ]
+            }
+        ]
+    }
+]

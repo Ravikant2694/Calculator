@@ -1,0 +1,50 @@
+/* React hook form css */
+
+
+/* body {
+  background-color: white;
+}
+
+ul {
+  display: flex !important;
+  gap: 22px;
+  padding-top: 12px;
+}
+
+::marker {
+  list-style-type: none !important;
+}
+
+li:active {
+  background-color: aqua !important;
+}
+
+.nav-parent {
+  padding: 2rem 3rem;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .5rem 2rem;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+.navbar-container .nav-links {
+  display: flex;
+  gap: 2rem;
+}
+
+.navbar-container .nav-links .nav-link {
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.navbar-container .nav-links .nav-link:hover{
+  color: white;
+  background-color: green;
+} */
